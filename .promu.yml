@@ -3,7 +3,7 @@ go:
     # .circle/config.yml should also be updated.
     version: 1.15
 repository:
-    path: github.com/google/dnsmasq_exporter
+    path: github.com/buroa/dnsmasq_exporter
 build:
     binaries:
         - name: dnsmasq_exporter
